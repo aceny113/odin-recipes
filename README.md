@@ -1,0 +1,1 @@
+This is a recipe website that i make using only html. It includes description, recipe, and the procedure of each dish that i included. I use semantic elements like for headings, paragraphs, image, and list (ordered and unordered list).
